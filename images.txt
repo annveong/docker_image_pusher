@@ -4,3 +4,4 @@ atlassian/confluence:8.5.11
 wekanteam/wekan
 mongo:4.4
 powersee/sayhello
+python:3.9-slim
