@@ -5,3 +5,4 @@ wekanteam/wekan
 mongo:4.4
 powersee/sayhello
 python:3.9-slim
+atlassian/jira:9.12.15
