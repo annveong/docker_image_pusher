@@ -6,4 +6,4 @@ mongo:4.4
 powersee/sayhello
 python:3.9-slim
 atlassian/jira-software:9.12.16
-maxkb
+maxkb/maxkb:latest
