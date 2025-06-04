@@ -1,11 +1,5 @@
 frooodle/s-pdf
-hello-world
 atlassian/confluence:8.5.11
-wekanteam/wekan
-mongo:4.4
-powersee/sayhello
-python:3.9-slim
-atlassian/jira-software:9.12.16
 maxkb/maxkb:latest
 dify/dify:latest
 atlassian/jira-software:10.3.6
