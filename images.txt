@@ -1,4 +1,1 @@
-frooodle/s-pdf
-atlassian/confluence:8.5.11
-dify/dify:latest
 atlassian/jira-software:10.3.6
