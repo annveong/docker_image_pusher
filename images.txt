@@ -1,2 +1,1 @@
-atlassian/jira-software:10.3.6
-prom/snmp-exporter
+prom/alertmanager
