@@ -1,1 +1,1 @@
-prom/alertmanager
+gitlab/gitlab-runner:v18.0.2
