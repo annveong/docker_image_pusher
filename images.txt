@@ -1,1 +1,2 @@
 snipe/snipe-it:latest
+snipe-it:latest
