@@ -1,1 +1,1 @@
-mysql:8
+snipe/snipe-it
